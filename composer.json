@@ -1,0 +1,20 @@
+{
+    "name": "vens/pcap-php",
+    "description": "PCAP data processing",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vens\\PcapPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vens"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.4"
+    }
+}
