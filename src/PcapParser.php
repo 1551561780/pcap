@@ -1,6 +1,6 @@
 <?php
 
-namespace Vens\PcapParser;
+namespace Vens\PcapPhp;
 //思路分析
 //读取 PCAP 文件头：获取链路层类型等文件信息。
 //定位到指定偏移量：把文件指针移到指定位置。
